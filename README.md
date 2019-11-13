@@ -1,2 +1,2 @@
-# yolov3_reimplementation
-Reimplement yolov3 with gausian heatmap
+# yolov3_multi_backbone
+Yolov3 with multi backbone
