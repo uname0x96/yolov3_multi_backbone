@@ -22,6 +22,8 @@ from core.dataset import Dataset
 from core.yolov3 import YOLOv3, decode, compute_loss
 from core.config import cfg
 
+os.environ["CUDA_VISIBLE_DEVICES"]="2"
+
 trainset = Dataset('train')
 logdir = "./data/log"
 steps_per_epoch = len(trainset)
