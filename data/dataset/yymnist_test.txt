@@ -1,0 +1,20 @@
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000001.jpg 151,297,173,319,5 206,83,220,97,0 283,122,311,150,1 350,313,392,355,1 202,275,230,303,4 114,268,142,296,1 54,317,138,401,0
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000002.jpg 340,343,362,365,5 127,79,149,101,3 250,187,272,209,7 70,336,126,392,0 191,355,219,383,3 252,344,280,372,7 244,241,272,269,0 285,73,313,101,8 124,203,236,315,7 330,208,414,292,2
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000003.jpg 333,302,355,324,0 48,211,62,225,1 145,231,257,343,5 156,15,240,99,6
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000004.jpg 260,80,316,136,7 287,143,343,199,5 116,176,228,288,9
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000005.jpg 33,21,55,43,0 126,299,148,321,0 65,116,107,158,0 107,325,149,367,3 190,284,302,396,6
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000006.jpg 369,272,391,294,9 342,334,398,390,1 86,173,128,215,7 6,230,48,272,4 110,259,194,343,0 187,169,271,253,1
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000007.jpg 205,38,317,150,6 3,140,87,224,7 130,272,214,356,8
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000008.jpg 352,132,366,146,1 388,231,410,253,7 207,264,221,278,5 184,148,226,190,9 153,216,195,258,1 36,21,64,49,6 157,261,269,373,3
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000009.jpg 289,154,311,176,9 354,369,368,383,5 77,213,91,227,6 236,219,320,303,5 5,52,117,164,3
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000010.jpg 53,232,75,254,7 193,104,215,126,6 119,283,147,311,4 301,253,385,337,2 182,170,294,282,0 35,302,147,414,9
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000011.jpg 304,350,326,372,0 159,116,173,130,3
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000012.jpg 69,276,91,298,4 92,358,114,380,2 22,273,36,287,4 53,361,81,389,4 140,197,196,253,5
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000013.jpg 122,313,144,335,3 223,170,279,226,1 146,227,202,283,7 192,323,248,379,4 254,255,366,367,6 88,115,172,199,9 299,118,383,202,5
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000014.jpg 282,125,304,147,6 148,377,162,391,1 250,336,278,364,2 124,3,152,31,9 292,193,348,249,7 89,79,131,121,1 75,157,131,213,7 381,69,409,97,8 12,215,124,327,9 274,37,358,121,2 144,83,256,195,3
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000015.jpg 26,49,48,71,6 251,83,265,97,0 378,209,392,223,1 289,330,345,386,2 354,131,382,159,8 256,154,298,196,1 68,210,180,322,1 208,254,292,338,8
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000016.jpg 381,90,403,112,7 56,343,84,371,6 291,210,347,266,0 189,260,301,372,3 163,74,275,186,0 44,110,128,194,1
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000017.jpg 355,177,369,191,4 379,255,401,277,3 18,106,60,148,8 99,254,141,296,5 253,250,337,334,0 311,25,395,109,8
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000018.jpg 15,188,29,202,8 380,95,394,109,3 152,163,174,185,7 339,70,381,112,3 215,337,271,393,6 302,303,414,415,1 78,70,162,154,9
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000019.jpg 391,358,413,380,8 358,53,380,75,4 186,69,228,111,4 11,111,67,167,8 263,263,319,319,1 336,289,392,345,4 75,152,117,194,5 251,25,307,81,9 300,124,412,236,1 121,247,233,359,1
+C:\Users\congnt\Documents\yolov3_reimplementation\data\dataset\test\000020.jpg 96,99,118,121,0 260,114,282,136,6 152,245,208,301,0 337,147,379,189,4 62,44,90,72,5 254,206,338,290,6 61,156,145,240,2

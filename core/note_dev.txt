@@ -1,0 +1,23 @@
+#resnet 416
+out1.shape:  (1, 416, 416, 256)
+out2.shape:  (1, 208, 208, 512)
+out3.shape:  (1, 104, 104, 1024)
+out4.shape:  (1, 52, 52, 2048)
+ 
+#resnet 224
+out1.shape:  (1, 224, 224, 256)
+out2.shape:  (1, 112, 112, 512)
+out3.shape:  (1, 56, 56, 1024)
+out4.shape:  (1, 28, 28, 2048)
+
+#darknet 416
+route_1:  (1, 52, 52, 256)
+route_2:  (1, 26, 26, 512)
+input_data:  (1, 13, 13, 1024)
+
+#darknet 608
+route_1:  (1, 76, 76, 256)
+route_2:  (1, 38, 38, 512)
+input_data:  (1, 19, 19, 1024)
+
+
