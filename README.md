@@ -1,4 +1,4 @@
-A minimal tensorflow implementation of YOLOv3, with support for training, inference and evaluation.
+A minimal tensorflow implementation of YOLOv3, with support for multibackbone Resnet, VGG, Darknet53, mobilenetv2, mobilenetv3, training, inference and evaluation.
 
 ## Installation
 --------------------
