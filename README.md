@@ -1,5 +1,11 @@
 A minimal tensorflow implementation of YOLOv3, with support for multibackbone Resnet, VGG, Darknet53, mobilenetv2, mobilenetv3, training, inference and evaluation.
 
+- [x] Resnet
+- [ ] VGG
+- [x] Darknet53
+- [ ] mobilenetv2
+- [ ] mobilenetv3
+
 ## Installation
 --------------------
 Install requirements and download pretrained weights
